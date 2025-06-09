@@ -1,0 +1,22 @@
+.app-header {
+    text-align: center;
+    margin: 2rem 0;     /* 2 times the root element’s font size */
+    padding: 1rem;
+    background-color: #f8f9fa;
+    border-bottom: 2px solid #dee2e6;
+}
+
+.app-header h1{
+    font-size: 2.5rem;
+    color: #343a40;
+}
+
+/* Media query will go into effect when the viewport width is 768px or less */
+@media (max-width: 768px) {
+  .app-header h1 {
+    font-size: 1.8rem;
+  }
+  .app-header p {
+    font-size: 0.9rem;
+  }
+}
