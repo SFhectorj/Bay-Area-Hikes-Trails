@@ -1,6 +1,7 @@
 import React from 'react';
 import { hikes } from '../data.js';
 import Card from './Card.jsx';
+import './Board.css';
 
 const Board = () => {
     return (
