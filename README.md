@@ -34,6 +34,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented required features:
 
 <img src='https://submissions.us-east-1.linodeobjects.com/web102/dDj21ysc.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://submissions.us-east-1.linodeobjects.com/web102/dDj21ysc.gif
 
 ## Notes
 
