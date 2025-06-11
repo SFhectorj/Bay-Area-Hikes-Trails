@@ -1,11 +1,11 @@
 import "./App.css";
 import ResourceCard from "./ResourceCard";
-import { hikes } from "./data";
+import { resources } from "./data";
 
 function App() {
   return (
     <div className="app">
-      <h1>Bay Area Hikes</h1>
+      <h1>San Francisco Bay Area Hiking Trails</h1>
       <div className="card-grid">
         {resources.map((resource) => (
           <ResourceCard key={resource.id} resource={resource} />
