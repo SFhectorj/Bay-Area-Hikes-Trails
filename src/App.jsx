@@ -1,15 +1,16 @@
-import React from 'react';
-import Header from './components/Header';
-import Board from './components/Board';
-import './App.css';
+import "./App.css";
+import ResourceCard from "./ResourceCard";
+import { hikes } from "./data";
 
 function App() {
   return (
-    <div className='App'>
-      <Header />
-      <main>
-        <Board />
-      </main>
+    <div className="app">
+      <h1>Bay Area Hikes</h1>
+      <div className="card-grid">
+        {resources.map((resource) => (
+          <ResourceCard key={resource.id} resource={resource} />
+        ))}
+      </div>
     </div>
   );
 }

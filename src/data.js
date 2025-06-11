@@ -59,5 +59,5 @@ export const hikes = [
         name: 'Angel Island State Park',
         location: 'San Francisco Bay, CA',
         description: 'A historic island reached by ferry, offering 360-degree views from its perimeter trail.',
-    }
+    },
 ];
