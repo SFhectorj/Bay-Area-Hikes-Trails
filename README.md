@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://drive.google.com/file/d/1AJkXO8ovjSWzjNm4h0o92CBWqZLkwMVl/view?usp=share_link' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://submissions.us-east-1.linodeobjects.com/web102/dDj21ysc.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
